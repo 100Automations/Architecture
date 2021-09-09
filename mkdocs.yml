@@ -7,27 +7,12 @@ nav:
     - index: Front-End/index.md
     - assets/: Front-End/assets.md
     - HTML:
-      - _includes/: 
-        - About/: Front-End/_includes/about.md
-        - All-Guides/: Front-End/_includes/all-guides.md
-        - Home/: Front-End/_includes/home.md
-        - Press/: Front-End/_includes/press.md
-        - toc.html: Front-End/_includes/toc.md
-      - _layouts/: 
-        - bios.html:  Front-End/_layouts/bios.md
-        - default.html: Front-End/_layouts/default.md
-    - _sass/: 
-      - index.scss: Front-End/_sass/index.md
-      - components/: Front-End/_sass/componenets.md
-      - includes/: Front-End/_sass/includes.md
-      - layouts/: Front-End/_sass/layouts.md
-      - press-kit/: Front-End/_sass/team.md
-      - variables/: Front-End/_sass/variables.md
+      - _includes/: Front-End/_includes/index.md
+      - _layouts/: Front-End/_layouts/index.md
+    - _sass/: Front-End/_sass/index.md
   - Back-End:
     - index: Back-End/index.md
-    - _data/:
-      - nav.yml: Back-End/data/nav.md
-      - press-kit.yml: Back-End/data/press-kit.md 
+    - _data/: Back-End/data/index.md 
     - _config.yml: Back-End/config.md
     - Collections:
       - _automations/: Back-End/collections/automations.md
