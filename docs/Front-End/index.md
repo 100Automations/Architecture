@@ -4,7 +4,7 @@ This page will provide information on the folder name and purpose.
 
 ## `_includes/`
 
-If you are working with a specific part of the site then this folder will have what you are looking for.
+If you are working on a new element for a page or an existing element.
 
 ### _About_
 
@@ -28,7 +28,7 @@ This is an include for a guides section header menu.
 
 ## `_layouts/`
 
-If you are trying to change how all pages look or define how a collections output is supposed to look like then you need to find it here.
+If you are trying to change how all pages look or define a collections output.
 
 ### _Default_
 
@@ -38,6 +38,7 @@ This defines the doctype, html, and body.
 ### _Guides_
 
 This is the layout for the guides collection output.
+Each guide looks like the guides layout.
 
 ## `_sass/`
 
@@ -63,11 +64,11 @@ For styling the different pages on the press-kit page.
 
 Setting standard styles from Hack4LA.
 
-### `index.scss`
+### _`index.scss`_
 
 Imports all folders.
 
-## assets
+## `assets/`
 
 Static files and imports.
 

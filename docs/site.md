@@ -1,5 +1,7 @@
 # Site Components for 100 Automations
 
+Split between Front-End (UI and UX: HTML, SASS, Etc.) and Back-end (Programming and Data: Ruby)
+
 ## Front-End
 
 The "Front-End" of our site will be defined by the HTML and CSS we create.
@@ -46,7 +48,7 @@ Layouts are different from includes, and define the layout of a collection's out
 
 ### _Sass Styles_
 
-Jekyll has it's own Sass processor, and this is defined in our [config.yml](docs/../Back-End/config.md).
+Jekyll has it's own Sass processor, and this is defined in our [config.yml](docs/../Back-End/config/index.md).
 The [_sass](Front-End/_sass/index.md) will be imported into the site's `assests/css/`.
 
 ## Back-End

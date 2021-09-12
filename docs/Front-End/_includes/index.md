@@ -1,4 +1,6 @@
-##### `Home/`
+# `_includes/`
+
+## `Home/`
 
 `index.html`:
 
@@ -16,7 +18,7 @@ The divider is called `wave.html`.
 
 `border.html` is a section containing three separate user experiences.
 
-##### `About/`
+## `About/`
 
 `index.html`:
 
@@ -34,7 +36,7 @@ The order in which we use our include statement is the order that these files ar
 
 _Image of the about 100 Automations section_
 
-##### `Press/`
+## `Press/`
 
 `index.html`:
 
@@ -50,14 +52,7 @@ If you notice, there is also a `wave.html`: just like the home page.
 
 The `press_action.html` is a page that contains all the links to navigate the `press-kit/`
 
-##### `toc.html`
-
-This file is located in the includes and belongs to the guide layuout.
-In read the markdown file that is being processed through jekyll we include toc.html
-
-`toc.html` captures the jekyll variables and creates an html nav item list.
-
-##### `All-Guides/`
+## `All-Guides/`
 
 `index.html`:
 
@@ -69,3 +64,10 @@ In read the markdown file that is being processed through jekyll we include toc.
 
 As you can see from the index file this page is built using two components.
 The order in which we use our include statement is the order that these files are displayed on our page.
+
+## `toc.html`
+
+This file is located in the includes and belongs to the guide layuout.
+In read the markdown file that is being processed through jekyll we include toc.html
+
+`toc.html` captures the jekyll variables and creates an html nav item list.

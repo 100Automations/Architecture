@@ -1,4 +1,4 @@
-### `_data/`
+# `_data/`
 
 The data folder exists for holding different data files.
 Currently the only data file that is contained within the data folder is called `nav.yml`

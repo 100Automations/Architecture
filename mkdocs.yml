@@ -4,19 +4,14 @@ nav:
   - Home: index.md
   - Site: site.md
   - Front-End:
-    - index: Front-End/index.md
-    - assets/: Front-End/assets.md
+    - Folders: Front-End/index.md
+    - assets/: Front-End/assets/index.md
     - HTML:
       - _includes/: Front-End/_includes/index.md
       - _layouts/: Front-End/_layouts/index.md
     - _sass/: Front-End/_sass/index.md
   - Back-End:
-    - index: Back-End/index.md
+    - Folders: Back-End/index.md
     - _data/: Back-End/data/index.md 
-    - _config.yml: Back-End/config.md
-    - Collections:
-      - _automations/: Back-End/collections/automations.md
-      - _bios/: Back-End/collections/bios.md
-      - _guides/: Back-End/collections/guides.md
-      - _memes/: Back-End/collections/memes.md
-      - _social-media-posts/: Back-End/collections/social-media-posts.md
+    - _config.yml: Back-End/config/index.md
+    - Collections: Back-End/collections/index.md
