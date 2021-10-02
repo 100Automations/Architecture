@@ -1,4 +1,7 @@
 site_name: 100 Automations-Site Architecture
+site_url: https://100automations.github.io/Architecture/
+repo_url: https://github.com/100Automations/Architecture
+edit_uri: edit/main/docs
 
 nav: 
   - Home: index.md
