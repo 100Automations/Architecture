@@ -1,0 +1,12 @@
+.wy-side-nav-search {
+    background-color: #f4f6f9;
+}
+
+.wy-side-nav-search > a {
+    color: black;
+    font-size: 0;
+}
+
+.icon-home::before {
+    content: url("img/100-short.png");
+}
