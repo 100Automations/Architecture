@@ -1,8 +1,0 @@
-site_name: 100 Site Architecture
-site_url: https://100AutomationsArchitecture.com/
-nav:
-    - Home: index.md
-    - Code: code.md
-theme: readthedocs
-extra_css:
-    - index.css
